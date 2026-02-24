@@ -1,4 +1,4 @@
-# librarymanagementsystem
+# Library Management System
 SQL-based Library Management System to manage books, members, borrowing history, due dates, and fine calculations.
 
 1. Project Overview
